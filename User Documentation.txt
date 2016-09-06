@@ -1,0 +1,4 @@
+To run the file, download Eclipse from Oracle onto your computer.
+To add the zip codes to be converted, open a plain text file and save it on your desktop.
+Type in each zip code to the file, one per line. Open the code and run it. A window with the
+graphic images should pop up.
